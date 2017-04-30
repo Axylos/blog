@@ -3,7 +3,7 @@
   <channel>
       <title>My New Hugo Site on My New Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://draketalley.com/blog/</link>
+    <link>http://axylos.github.io/blog/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>foods</title>
-      <link>http://draketalley.com/blog/post/foods/</link>
+      <link>http://axylos.github.io/blog/post/foods/</link>
       <pubDate>Sun, 30 Apr 2017 05:20:55 EDT</pubDate>
       
-      <guid>http://draketalley.com/blog/post/foods/</guid>
+      <guid>http://axylos.github.io/blog/post/foods/</guid>
       <description>&lt;p&gt;&lt;strong&gt;I like bullshit&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
